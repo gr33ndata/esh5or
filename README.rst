@@ -11,6 +11,10 @@ esh5or
 
 Python-based CLI for generating sha5ra (snorts)
 
+Just type:
+
+    $ python esh5or.py --length LENGTH_OF_SHA5RA
+
 * Free software: BSD license
 * Documentation: https://esh5or.readthedocs.org.
 
